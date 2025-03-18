@@ -1,32 +1,34 @@
 ---
-title: Bag kulisserne i den danske finanselite - Bachelorprojekt 2024
+title: A Deep Dive into Denmark’s Financial Elite - Bachelor Project 2024
 author: aaholst
 date: 2024-06-05 12:00:00 +0000
 categories: [Sociology, Education]
 tags: [project, thesis, sociology of finance, political sociology]
 render_with_liquid: false
-description: Short summary of the post.
+description: This paper examines the internal composition of the Danish financial sector elite and its connection to the elite within the regulatory authorities through network analysis and career path analysis.
 toc: true
 comments: false
 ---
 
-I en tid, hvor finanssektoren har stor betydning for hele samfundsøkonomien – som finanskrisen i 2008 tydeliggjorde – er det værd at kigge nærmere på, hvordan den danske finanselite er opbygget og forbundet. I mit bachelorprojekt fra Københavns Universitet dykkede jeg ned i, hvem der udgør denne elite, og hvordan deres netværk både internt og over for de regulerende myndigheder ser ud.
+*In 2024, I became Bachelor of Science in Sociology. My thesis was an empirical mapping of the Danish financial sector. This paper examines the internal composition of the Danish financial sector elite and its connection to the elite within the regulatory authorities through network analysis and career path analysis. The study draws conclusions based on overlaps in forum memberships, supplemented by curriculum vitae data. The curriculum vitae data is further utilized to examine revolving doors among individuals in our sample who have a higher-than-average betweenness score, a centrality measure indicating an individual's role in connecting various other individuals within the network.*
 
-# Et unikt indblik i netværk og karriereveje
-Projektet baserede sig på en omfattende analyse af formelle netværk, hvor data fra over 13.000 fora – bestyrelser, råd, kommissioner og advisory boards – blev samlet for at kortlægge forbindelserne mellem mere end 1.500 centrale aktører i finanssektoren. Ved at undersøge, hvem der sidder i flere forskellige fora, og hvordan deres karriereveje ser ud, blev det muligt at se, at:
+In today’s interconnected world, understanding the intricate relationships within the financial sector is more important than ever. My recent bachelor’s project at the University of Copenhagen set out to explore the internal composition of Denmark’s financial elite and its ties to regulatory authorities. This research employs formal network analysis and career path examinations to uncover the hidden structures that shape the industry.
 
-- Interne forbindelser: Banker, pensionskasser og andre finansielle institutioner danner tætte klynger med betydelige overlappende medlemskaber. Disse netværk understøtter en form for "organisatorisk loyalitet", hvor personer ofte bliver i samme virksomhed eller sektor over længere tid.
-- Eksterne relationer: Samtidig viser analysen, at forbindelserne mellem den private finanssektor og de statslige reguleringsorganer sjældent er direkte. I stedet sker interaktionen gennem specifikke fora og udvalg – et eksempel er Finanstilsynets bestyrelses ekspertpanel, som fungerer som en bro mellem de to verdener.
+# Unveiling the Network
+At the core of this study is an extensive dataset collected from over 13,000 professional forums—including boards, councils, and advisory committees—where more than 1,500 key figures in the financial sector are interlinked. By analyzing overlapping memberships, the research reveals that:
 
-# Svingdøre og den usynlige magt
-En af de mest interessante dele af undersøgelsen omhandlede det såkaldte svingdørsfænomen. Det drejer sig om, at enkelte personer skifter mellem stillinger i den private finanssektor og i statslige reguleringsorganer. Denne udveksling af kompetencer og erfaringer kan både føre til en bedre regulering – idet erfaring fra branchen kan tilføre værdifuld teknisk indsigt – og til en risiko for, at de regulerende myndigheder bliver for tætte på de aktører, de skal føre tilsyn med.
+- Internal Cohesion: Institutions such as banks, pension funds, and insurance companies form densely interconnected clusters. These clusters often reflect long-term organizational and sectoral loyalty, suggesting that professionals tend to build and sustain their careers within the same circles.
+- Indirect External Connections: Direct linkages between the private financial sector and public regulatory bodies are rare. Instead, the connection is mediated through specialized forums and committees. For instance, the Danish Financial Supervisory Authority’s expert panel acts as a vital bridge, linking these two distinct realms.
 
-Resultaterne viste, at svingdørene eksisterer, men at de udgør en relativt begrænset del af hele netværket. Dette indikerer, at selvom der er bevægelighed mellem sektorerne, så fastholder de fleste aktører deres positioner i henholdsvis den private eller den offentlige arena.
+# The Revolving Door Phenomenon
+One of the most intriguing aspects of the study is the examination of the revolving door phenomenon. This refers to the movement of professionals between the private sector and public regulatory agencies. On one hand, such transitions can enhance regulatory practices by incorporating valuable industry insights; on the other, they may raise concerns about regulatory capture, where oversight might become biased due to close personal ties.
 
-# Teoretiske perspektiver: Fra magtelit til social kapital
-For at forstå disse komplekse netværk trak projektet på teorier fra blandt andre C. Wright Mills og Pierre Bourdieu. Mills’ begreb om “power elite” hjælper os med at se, hvordan få personer med høje positioner har afgørende beslutningskompetence, mens Bourdieu’s idéer om kapital – både økonomisk og social – giver en dybere forståelse af, hvordan netværksforbindelser bidrager til at opretholde magt og indflydelse.
+The analysis indicates that while revolving door careers do occur, they represent only a modest portion of the overall network. Most individuals tend to remain firmly within either the private or the public sphere, preserving a degree of separation between these sectors.
 
-# Hvad betyder det for os?
-Denne undersøgelse giver et unikt indblik i de skjulte strukturer, der former finanssektoren i Danmark. Det bliver tydeligt, at selvom sektoren er præget af en tæt intern sammenhæng, så er forbindelserne til de regulerende myndigheder ofte indirekte og struktureret gennem specifikke fora. Dette kan have stor betydning for, hvordan finansiel regulering udformes – og for, hvordan vi forstår sammenhængen mellem magt, netværk og økonomisk stabilitet i samfundet.
+# Theoretical Lenses: From Power Elite to Social Capital
+The study is anchored in theoretical frameworks developed by C. Wright Mills and Pierre Bourdieu. Mills’ concept of the power elite provides a lens to understand how a small group of influential individuals can drive major economic and political decisions. Complementing this, Bourdieu’s theories on capital—both economic and social—help explain how network connections and shared professional experiences consolidate power and shape industry dynamics.
 
-Hvis du er interesseret i at vide mere om, hvordan disse netværk påvirker vores økonomi, og hvad det kan betyde for fremtidens regulering, så er der masser at diskutere. Finansverdenen er dynamisk og fuld af overraskelser, og et nærmere kig på de usynlige tråde, der binder den sammen, kan give os værdifuld indsigt i, hvordan vi bedst navigerer i en kompleks økonomisk virkelighed.
+# Implications and Insights
+This research offers a unique insight into the hidden networks that govern Denmark’s financial landscape. By mapping both the formal connections and the career trajectories of its elite, the study not only highlights the strengths of internal cohesion but also draws attention to the moderated impact of the revolving door phenomenon on regulatory processes.
+
+Understanding these dynamics is essential—not just for academics, but for policymakers and industry stakeholders who strive to balance effective regulation with the benefits of industry expertise. As we continue to witness rapid changes in the global financial ecosystem, such insights are invaluable for fostering transparency and resilience within the sector.
